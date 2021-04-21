@@ -15,6 +15,8 @@
 - Svelte
 
 ## 中间件
+- redis
+- zookeeper
 
 
 # 个人博客
