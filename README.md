@@ -25,6 +25,7 @@ http://koory1st.github.io/
 # 公众号
 
 # Bilibili
+https://space.bilibili.com/16727966?spm_id_from=333.999.0.0
 
 # 个人项目
 https://github.com/koory1st/svelte-element-ui
