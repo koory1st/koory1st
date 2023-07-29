@@ -4,8 +4,10 @@
 ## 语言
 - Java
 - Javascript(ES6)
+- rust
+- python
+- php
 - go(学习中)
-- rust(学习中)
 
 ## 框架
 - Spring
@@ -13,6 +15,8 @@
 - Springcloud
 - Vue
 - Svelte
+- actix
+- tauri
 
 ## 中间件
 - redis
