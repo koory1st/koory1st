@@ -32,7 +32,7 @@ http://koory1st.github.io/
 https://space.bilibili.com/16727966?spm_id_from=333.999.0.0
 
 # 个人项目
-https://github.com/koory1st/svelte-element-ui
+[svelte-element-ui](https://github.com/koory1st/svelement-ui/actions)
 
 <!--
 **koory1st/koory1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
