@@ -32,7 +32,11 @@ http://koory1st.github.io/
 https://space.bilibili.com/16727966?spm_id_from=333.999.0.0
 
 # 个人项目
-[svelte-element-ui](https://github.com/koory1st/svelement-ui/actions)
+- [svelement-ui](https://koory1st.github.io/svelement-ui)
+- [obsidian-plugin-abcjs-music](https://github.com/koory1st/obsidian-plugin-abcjs-music)
+
+# 支持我
+[为爱发电，交个朋友](https://afdian.net/album/846832aca96311eeb20c5254001e7c00)
 
 <!--
 **koory1st/koory1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
